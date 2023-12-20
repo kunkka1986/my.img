@@ -51,7 +51,7 @@ CCTV14,http://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV15,http://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV16,http://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-CCTV-13,https://pi.0472.org/tv/mzt.php?auth=230918
+CCTV13,https://pi.0472.org/tv/mzt.php?auth=230918
 CCTV1,http://27.16.178.143:4567/rtp/239.254.96.96:8550
 CCTV2,http://27.16.178.143:4567/rtp/239.69.1.102:10250
 CCTV3,http://27.16.178.143:4567/rtp/239.69.1.122:10370
