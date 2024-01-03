@@ -1,7 +1,6 @@
-公众号|好料空间,#genre#
-如遇卡顿请右键换源,http://
-www.h6room.com,#genre#
-优先保障央视和卫视,http://
+好料空间维护,#genre#
+卡顿右键换源,http://
+
 央视频道,#genre#	
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
