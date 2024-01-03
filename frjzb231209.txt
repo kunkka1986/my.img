@@ -1,6 +1,5 @@
 好料空间维护,#genre#
 卡顿右键换源,http://
-www.h6room.com,https://www.h6room.com
 
 央视频道,#genre#	
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
