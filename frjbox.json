@@ -1232,7 +1232,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://cdn.jsdelivr.net/gh/kunkka1986/my.img@latest/frjzb240112.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/kunkka1986/my.img/main/frjzb240112.txt",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
