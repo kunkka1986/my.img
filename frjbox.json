@@ -1,14 +1,14 @@
 {
-  "蜘蛛" : "http://meowtv.cn/meow1;md5;D1115D99527D75948D095085B1407ADD" ,
-  "wallpaper" : "http://饭太硬.top/勘探色谱/api.php" ,
-  “网站”：[
+  "spider": "http://meowtv.cn/meow1;md5;D1115D99527D75948D095085B1407ADD",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
     {
-      “关键”：“豆豆”，
-      "名称" : "❦缝纫机盒" ,
-      “类型”：3，
-      "api" : "csp_DouDou" ,
-      “可搜索”：0，
-      “快速搜索”：0，
+      "key": "豆豆",
+      "name": "❦缝纫机Box",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0
     },
     {
@@ -23,32 +23,32 @@
     },
     {
       "key": "YGP",
-      "name" : "🚀荐片┃速递" ,
-      “类型”：3，
-      “api”：“csp_YGP”，
-      “可搜索”：0，
-      “快速搜索”：0，
-      “可变”：0
-    } ,
+      "name": "🚀荐片┃速递",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
     {
-      “关键”：“meowtv_ngys”，
-      "name" : "南瓜┃影视" ,
-      “类型”：3，
-      “api”：“csp_NanGua”，
-      “可搜索”：1，
-      “快速搜索”：1，
-      “可变”：1，
-      “玩家类型”：2
-    } ,
+      "key": "meowtv_ngys",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
     {
-      “关键”：“meowtv_zxzj”，
-      "name" : "在线影视" ,
-      “类型”：3，
-      “api”：“csp_Zxzj”，
-      “可搜索”：1，
-      “快速搜索”：1，
-      “可变”：1，
-      “ext”：“https://www.zxzj.pro/”，
+      "key": "meowtv_zxzj",
+      "name": "在线┃影视",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/",
       "jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A"
     },
     {
