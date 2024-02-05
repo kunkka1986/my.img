@@ -113,7 +113,6 @@ CCTV7,http://222.223.119.21:8888/newlive/live/hls/9/live.m3u8
 CCTV7,http://113.57.150.190:9000/tsfile/live/0007_1.m3u8
 
 
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 CCTV8,http://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 CCTV8,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
