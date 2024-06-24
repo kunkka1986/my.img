@@ -1121,7 +1121,7 @@
     },
     {
       "key": "缝纫机Box",
-      "name": "缝纫机Box最新版为：1.0.10",
+      "name": "240624发布最新版：1.1.1",
       "type": 3,
       "api": "csp_fan",
       "searchable": 0,
@@ -1211,7 +1211,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/kunkka1986/my.img/main/frjzb240205.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/kunkka1986/my.img/main/frjzb240624.txt",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
